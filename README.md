@@ -3,7 +3,8 @@
 A responsive business website built with Bootstrap 5.
 
 ## Live Demo
-Visit the live site: https://suhailawez.github.io/modern-business-website
+Visit the live site: 
+https://suhailawez.github.io/Modern-Business-website/
 
 ## Features
 - Responsive design
